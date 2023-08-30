@@ -1,1 +1,1 @@
-print("Olá, Instituto Joga Junto! Estou aqui pra somar!")
+print("Olá, Instituto Joga Junto! Estou aqui pra somar!") 
