@@ -1,0 +1,1 @@
+print("Olá, Instituto Joga Junto! Estou aqui pra somar!")
